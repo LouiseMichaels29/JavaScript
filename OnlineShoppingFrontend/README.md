@@ -1,6 +1,6 @@
 # Stephen Loudiana, Mia Honcoop
 
-### Note: Please make sure that fakestoreapi.com/products does not have a bad gateway. I encountered this for a few minutes while testing our project and am just worried that might happen. If that does happen, check a few minutes later as it is normally restored. There is a hard coded json file in our program with the same information but is not included in the code. If, for whatever reason, that does happen, just use the json file path for the api path in the Products.js file. 
+### Note: Please make sure that fakestoreapi.com/products does not have a bad gateway. I encountered this for a few minutes while testing our project and am just worried that might happen. If that does happen, check a few minutes later as it is normally restored. There is a hard coded json file in our program with the same information but is not included in the code. If, for whatever reason, that does happen, just use the json file path for the api path in the Products.js file. text here
 
 # Getting Started with Create React App
 
